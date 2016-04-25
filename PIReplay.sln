@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIReplay", "PIReplay\PIReplay.csproj", "{18479C6A-BAAB-4C81-A27F-9DB81799CD83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIReplayConsole", "PIReplayConsole\PIReplayConsole.csproj", "{9559D9BB-E4FE-4CFA-AE26-41CDBE0F75A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIReplayLib", "PIReplayLib\PIReplayLib.csproj", "{6A664D19-AD68-4F2F-9F2D-3B48A54DE953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18479C6A-BAAB-4C81-A27F-9DB81799CD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18479C6A-BAAB-4C81-A27F-9DB81799CD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18479C6A-BAAB-4C81-A27F-9DB81799CD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18479C6A-BAAB-4C81-A27F-9DB81799CD83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9559D9BB-E4FE-4CFA-AE26-41CDBE0F75A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9559D9BB-E4FE-4CFA-AE26-41CDBE0F75A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9559D9BB-E4FE-4CFA-AE26-41CDBE0F75A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9559D9BB-E4FE-4CFA-AE26-41CDBE0F75A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A664D19-AD68-4F2F-9F2D-3B48A54DE953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A664D19-AD68-4F2F-9F2D-3B48A54DE953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A664D19-AD68-4F2F-9F2D-3B48A54DE953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A664D19-AD68-4F2F-9F2D-3B48A54DE953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
